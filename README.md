@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Abdullah%20Al-Sulami&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=250&section=header&text=Abdullah%20Al-Sulami&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
   <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=35&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=600&lines=Joiner+Software+Developer;Flutter+Developer;Web+Developer;Freelancer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=35&duration=3000&pause=1000&color=BD34FE&center=true&vCenter=true&width=600&lines=Joiner+Software+Developer;Flutter+Developer;Web+Developer;Freelancer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -40,6 +40,7 @@ I am **Abdullah Al-Sulami**, an ambitious **Joiner Software Developer**, **Flutt
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahSulami&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahSulami&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -52,6 +53,19 @@ I am **Abdullah Al-Sulami**, an ambitious **Joiner Software Developer**, **Flutt
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSulami&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
+---
+
+### 𓆘 My Contributions
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahSulami/AbdullahSulami/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahSulami/AbdullahSulami/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/AbdullahSulami/AbdullahSulami/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
 
 
 ### 📫 Connect With Me
@@ -66,14 +80,14 @@ I am **Abdullah Al-Sulami**, an ambitious **Joiner Software Developer**, **Flutt
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://abdullah-fahd-othman.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00CED1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-BD34FE?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20You%20For%20Visit&fontSize=45&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD34FE&height=200&section=footer&text=Thank%20You%20For%20Visit&fontSize=45&animation=fadeIn" width="100%" />
 </div>
 
 <hr/>
