@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Abdullah%20Al-Sulami&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=250&section=header&text=Abdullah%20Al-Sulami&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
@@ -87,7 +87,7 @@ I am **Abdullah Al-Sulami**, an ambitious **Joiner Software Developer**, **Flutt
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20You%20For%20Visit&fontSize=45&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD34FE&height=200&section=footer&text=Thank%20You%20For%20Visit&fontSize=45&animation=fadeIn" width="100%" />
 </div>
 
 <hr/>
