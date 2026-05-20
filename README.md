@@ -53,14 +53,6 @@ I am **Abdullah Al-Sulami**, an ambitious **Joiner Software Developer**, **Flutt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSulami&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
----
-
-### 🐍 The Snake Game
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AbdullahSulami/AbdullahSulami/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
 
 ### 📫 Connect With Me
 <div align="center">
