@@ -40,7 +40,7 @@ I am **Abdullah Al-Sulami**, an ambitious **Joiner Software Developer**, **Flutt
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahSulami&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahSulami&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AbdullahSulami&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -53,6 +53,12 @@ I am **Abdullah Al-Sulami**, an ambitious **Joiner Software Developer**, **Flutt
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSulami&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
+---
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
